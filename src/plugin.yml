@@ -1,0 +1,8 @@
+main: me.davidatnip.CustomDias.Main
+api-version: 1.17
+name: JavaHealth
+version: 0.01
+author: David Atnip
+commands:
+  reset:
+    description: resets you to starting health
